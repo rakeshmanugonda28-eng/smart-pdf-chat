@@ -93,15 +93,7 @@ Type `exit` to stop.
 ├── data/              # your PDF files (not uploaded to GitHub)
 ├── chroma_db/         # saved vector database (created automatically, not uploaded)
 └── README.md
-```
-
----
-
-## ⚠️ Limitations
-
-- If the document uses different words than the question (e.g. *drawbacks* vs *limitations*), retrieval can miss the right chunk.
-- Only answers from the retrieved chunks, so very broad questions ("summarise everything") may be incomplete.
-- Text-only: images, charts and tables inside the PDF are not understood.
+``
 
 ## 🔮 Future Improvements
 
