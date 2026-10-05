@@ -100,4 +100,4 @@ Type `exit` to stop.
 - **Multi-query retrieval** to handle different wording
 - Page-number citations in answers
 - A web interface with Streamlit
-- Multimodal support for images and charts → see my **[PDF Lens: Multimodal RAG](https://github.com/your-username/pdf-lens)** project
+- Multimodal support for images and charts → see my **[PDF Lens: Multimodal RAG](https://github.com/rakeshmanugonda28-eng/multimodel-rag)** project
