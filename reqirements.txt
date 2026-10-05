@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-community
+pypdf
+pymupdf
+openai
+langchain_openai
+sentence_transformers
+
+langchain_huggingface
