@@ -93,7 +93,7 @@ Type `exit` to stop.
 ├── data/              # your PDF files (not uploaded to GitHub)
 ├── chroma_db/         # saved vector database (created automatically, not uploaded)
 └── README.md
-``
+```
 
 ## 🔮 Future Improvements
 
